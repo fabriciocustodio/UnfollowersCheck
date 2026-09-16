@@ -1,0 +1,13 @@
+# Dados pessoais exportados do X (Twitter) - não versionar
+following.js
+follower.js
+nao_seguem_de_volta.txt
+
+# Python
+__pycache__/
+*.pyc
+
+# OS / editor
+.DS_Store
+.vscode/
+.idea/
